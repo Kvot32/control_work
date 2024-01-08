@@ -7,4 +7,4 @@
 1. Запустите программу с помощью Python:
 
    ```bash
-   python filter_strings.py
+   python work.py
